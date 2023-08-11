@@ -103,9 +103,9 @@ VSCode provides a host of functionalities for Java development including some of
 
 To enrich your understanding, here are some additional resources:
 
-* [Linting]()
-* [Debugging]()
-* [Testing]()
+* [Linting]() - Get a guide on how to apply linting in VSCode to maintain Java code quality and consistency.
+* [Debugging]() - Learn to leverage the debugging capabilities within VSCode to find and fix Java code issues more precisely and efficiently.
+* [Testing]() - Equip yourself with techniques on how to carry out effective and automated testing on your Java code using VSCode's advanced testing tools.
 
 ## Finishing Up 
 
