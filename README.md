@@ -4,10 +4,9 @@
 
 Welcome to the world of VSCode, where coding meets magic, unicorns, and a sprinkle of awesomeness! 🚀🦄
 
-
 ## Installation
 
-* [Installation Guide](installation-guide.md)
+* [Installation Guide](installation.md)
 
 Ready to install VSCode? Click here, and let the coding wizardry begin! 🧙‍♂️
 
