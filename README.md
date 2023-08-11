@@ -14,7 +14,7 @@ Ready to install VSCode? Click here, and let the coding wizardry begin! 🧙‍�
 
 Choose your awesome language and follow the instructions
 
-* [Java]() - Brew some code with Java! ☕
+* [Java](java/getting-started.md) - Brew some code with Java! ☕
 * [Python]() - Slither into the world of Python! 🐍
 * [C++]() - Unleash the power of C++! 💥
 * [Rust]() - No tetanus shots required for this Rust! 🛠️
