@@ -22,10 +22,28 @@ Java extensions are like adding a double shot of espresso to your VSCode. They r
 
 2. Punch in the commands below into the extension search bar and install these brewing toolkits:
 
-| Extension | Description | 
-| --------- | ----------- |
-| Java Extension Pack | A bundle of Java goodies including debugging, test runner, and more. It's like your powerful Java jetpack! |
-| Maven for Java | This one's a handy tool box packed with features for Maven projects. It's like having a super-charged coffee grinder fine-tuning your beans for flavor, speed, and reliability. |
+<table>
+  <tr>
+   <th>Extension</th>
+   <th>Publisher</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td>Extension Pack for Java</td>
+   <td>Microsoft</td>
+   <td>Extension Pack for Java is a collection of popular extensions that can help write, test and debug Java applications </td>
+  </tr>
+  <tr>
+   <td>Maven for Java</td>
+   <td>Microsoft</td>
+   <td>Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers.</td>
+  </tr>
+  <tr>
+   <td>XML</td>
+   <td>Red Hat</td>
+   <td>XML Language Support by Red Hat</td>
+  </tr>
+</table>
 
 You're supercharged now! Watch your VSCode go from a simple text editor to a Java-wielding coding powerhouse! 🦸‍♂️💻
 
