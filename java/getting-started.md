@@ -113,4 +113,13 @@ Great job, Java brewmaster! You've expertly set up your VSCode environment for J
 
 ---
 
+*Here are the mystical ingredients for this tutorial:*
+
+* Java 11
+* Maven 3.9.4
+* Mac OS 13.2.1
+* VSCode 1.81
+
+---
+
 *Note: No coffee beans were harmed in the coding of Java.* ☕
