@@ -14,14 +14,16 @@ brew install openjdk@11
 
 For other operating systems, visit the [Oracle JDK download page](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html), choose the version that matches your operating system, and follow the installation instructions.
 
-## Step 2: Install the Java Extension Pack for VSCode ☕
+## Step 2: Install the Java Extensions for VSCode ☕
 
-The Java Extension Pack adds magical powers to VSCode for Java development.
+The Java extensions add magical powers to VSCode for Java development, including the ability to manage your Maven projects.
 
 1. Open VSCode.
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar.
-3. Search for "Java Extension Pack."
-4. Click 'Install.'
+3. Search for "Java Extension Pack" and click 'Install.'
+4. Search for "Maven for Java" and click 'Install.'
+
+These extensions will empower your VSCode with Java superpowers, enabling you to brew code like a pro! 🧙‍♂️
 
 ## Step 3: Create Your First Java Project 🌱
 
