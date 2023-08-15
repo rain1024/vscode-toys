@@ -19,3 +19,9 @@ Choose your awesome language and follow the instructions
 * [C++]() - Unleash the power of C++! 💥
 * [Rust]() - No tetanus shots required for this Rust! 🛠️
 * [JavaScript]() - Scripting magic with JavaScript! 🎩✨
+
+## Leveling Up
+
+Ready to take your VSCode skills to the next level? Dive into these advanced topics and become a true coding sorcerer! 🧙‍♂️💼
+
+* [Shortcuts](shortcuts.md) - Master the shortcuts and become a VSCode wizard! ⌨️🧙
