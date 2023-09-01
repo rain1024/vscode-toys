@@ -34,8 +34,9 @@ VSCode extensions for Kotlin are like adding a drop of essence to your developme
     <th>Description</th>
   </thead>
   <tr>
-    <td><a href="">Code Runner</a></td>
-    <td><a href="">Code Runner</a></td>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner">Code Runner</a></td>
+    <td>Jun Han</td>
+    <td>Run code snippet or code file for multiple languages</td>
   </tr>
 </table>
 
