@@ -28,6 +28,11 @@ VSCode extensions for Kotlin are like adding a drop of essence to your developme
 | Kotlin Test Explorer| Mathias Fröhlich  | Test Explorer for Kotlin, helpful for running JUnit tests.|
 
 <table>
+  <thead>
+    <th>Extension</th>
+    <th>Publisher</th>
+    <th>Description</th>
+  </thead>
   <tr>
     <td><a href="">Code Runner</a></td>
     <td><a href="">Code Runner</a></td>
