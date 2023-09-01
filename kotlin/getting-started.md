@@ -34,10 +34,21 @@ VSCode extensions for Kotlin are like adding a drop of essence to your developme
     <th>Description</th>
   </thead>
   <tr>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin">Kotlin</a></td>
+    <td>fwcd</td>
+    <td>Smart code completion, debugging, linting, syntax highlighting and more for Kotlin</td>
+  </tr>
+  <tr>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin">Kotlin Language</a></td>
+    <td>mathiasfrohlich</td>
+    <td>Kotlin language support for VS Code</td>
+  </tr>
+  <tr>
     <td><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner">Code Runner</a></td>
     <td>Jun Han</td>
     <td>Run code snippet or code file for multiple languages</td>
   </tr>
+  
 </table>
 
 Your VSCode is now fully equipped for Kotlin development! 🎉
