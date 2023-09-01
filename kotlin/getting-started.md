@@ -37,26 +37,26 @@ Starting a Kotlin project in VSCode is simple and straightforward. Here's how to
 
 2. Create a new directory and initialize your Kotlin project with:
 
-\`\`\`bash
+```bash
 mkdir myKotlinApp
 cd myKotlinApp
 touch Main.kt
-\`\`\`
+```
 
 3. Open `Main.kt` and write your first Kotlin program. Here's a simple "Hello, World!" example:
 
-\`\`\`kotlin
+```kotlin
 fun main() {
     println("Hello, World!")
 }
-\`\`\`
+```
 
 4. To run your code, open the terminal and enter the following command:
 
-\`\`\`bash
+```bash
 kotlinc Main.kt -include-runtime -d Main.jar
 java -jar Main.jar
-\`\`\`
+```
 
 Voilà! You just ran your first Kotlin program! 🥳
 
@@ -66,7 +66,7 @@ JUnit 4 is one of the testing libraries that you can use to ensure your Kotlin c
 
 First, add a `Tests.kt` file to your project and paste the following code:
 
-\`\`\`kotlin
+```kotlin
 import org.junit.Test
 import org.junit.Assert.assertEquals
 
@@ -77,21 +77,21 @@ class Tests {
         assertEquals("Hello, World!", "Hello, World!")
     }
 }
-\`\`\`
+```
 
 Then, add the JUnit 4 library to your classpath:
 
-\`\`\`bash
+```bash
 # Download junit.jar and hamcrest-core.jar from the official site
 # Then add them to your classpath
 kotlinc -cp junit-4.XX.YY.jar:hamcrest-core-1.XY.ZZ.jar -include-runtime -d Tests.jar Tests.kt
-\`\`\`
+```
 
 To run your test:
 
-\`\`\`bash
+```bash
 java -cp Tests.jar:junit-4.XX.YY.jar:hamcrest-core-1.XY.ZZ.jar org.junit.runner.JUnitCore Tests
-\`\`\`
+```
 
 Replace `XX.YY` and `1.XY.ZZ` with the versions you've downloaded.
 
