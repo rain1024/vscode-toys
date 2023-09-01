@@ -27,6 +27,13 @@ VSCode extensions for Kotlin are like adding a drop of essence to your developme
 | Kotlin Language     | Mathias Fröhlich  | Kotlin language support, debugging, and more.  |
 | Kotlin Test Explorer| Mathias Fröhlich  | Test Explorer for Kotlin, helpful for running JUnit tests.|
 
+<table>
+  <tr>
+    <td><a href="">Code Runner</a></td>
+    <td><a href="">Code Runner</a></td>
+  </tr>
+</table>
+
 Your VSCode is now fully equipped for Kotlin development! 🎉
 
 ## Step 3: Create Your First Kotlin Project 🌟
