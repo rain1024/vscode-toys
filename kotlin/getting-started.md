@@ -22,11 +22,6 @@ VSCode extensions for Kotlin are like adding a drop of essence to your developme
 
 2. In the Extensions search bar, install the following:
 
-| Extension           | Publisher         | Description                                    |
-|---------------------|-------------------|------------------------------------------------|
-| Kotlin Language     | Mathias Fröhlich  | Kotlin language support, debugging, and more.  |
-| Kotlin Test Explorer| Mathias Fröhlich  | Test Explorer for Kotlin, helpful for running JUnit tests.|
-
 <table>
   <thead>
     <th>Extension</th>
