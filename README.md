@@ -19,6 +19,7 @@ Choose your awesome language and follow the instructions
 * C++ - Unleash the power of C++! 💥
 * Rust - No tetanus shots required for this Rust! 🛠️
 * JavaScript - Scripting magic with JavaScript! 🎩✨
+* [Kotlin](kotlin/getting-started.md) - Where Elegance Meets Performance! 💎⚡
 
 ## Leveling Up
 
